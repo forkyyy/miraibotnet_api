@@ -13,7 +13,7 @@ npm i express
 
 <h1>Setup:</h1>
 
-<h3>Update api.json to your botnet information<br>
+<h3>Update api.js to your botnet information<br>
 Update BOTNET_IP to your botnet IP address<br>
 Update BOTNET_PORT to your botnet user connection TCP port<br>
 Update BOTNET_USER your botnet username<br>
